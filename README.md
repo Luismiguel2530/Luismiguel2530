@@ -1,6 +1,6 @@
 ## Hi there, I'm Luis Miguel
 
-Software development learner. Focused on building web applications, crafting responsive user interfaces, and automating workflows.
+Software development learner. Focused on building web applications, crafting responsive user interfaces, and automating workflows. Experienced in identity management, endpoint deployment, and service desk operations, while actively expanding into web development and workflow automation.
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -8,11 +8,13 @@ Software development learner. Focused on building web applications, crafting res
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intune" />
 </p>
 
 ## What I'm building
 
-Building practical web projects, mastering modern JavaScript and React, and developing automated data workflows using n8n to connect tools and streamline tasks.
+Building practical web projects, mastering modern JavaScript and React, and developing automated data workflows using n8n. Simultaneously leveraging my background in IT systems administration to bridge the gap between development and cloud/endpoint management.
 
 ## Tools I use
 
@@ -20,4 +22,6 @@ Building practical web projects, mastering modern JavaScript and React, and deve
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Intune-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Intune" />
 </p>
